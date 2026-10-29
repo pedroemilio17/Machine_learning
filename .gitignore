@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+*.joblib
+*.parquet
+*.zip
+dados/
+resultados/
+# Não ignorar model.json.gz: necessário para a inferência na interface.
